@@ -1,0 +1,11 @@
+.employees-table input{
+
+    border: none;
+    background-color: transparent;
+
+}
+
+.pagination {
+    margin-top: 20px;
+   margin-right: 50% !important;
+}
